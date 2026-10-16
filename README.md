@@ -1,4 +1,4 @@
-# OpenGL Init
+# RayCast
 
 ## Dependencies
     - OpenGL APIs: gl:core=3.3
@@ -27,4 +27,3 @@ Configure the project with CMake, compile, and run the executable:
 make run
 ```
 ## Usage
-# raycast
